@@ -1,0 +1,1 @@
+ill freeze doc container each time it starts it installs models. give code now im using dev container but next time i rerun code or host server or run as container in production it should directly start. give code for whisper container and gemma
